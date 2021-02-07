@@ -1,0 +1,9 @@
+C:\Users\ahmet\source\repos\CarFind\CarFind.Entities\bin\Debug\netcoreapp3.1\CarFind.Entities.deps.json
+C:\Users\ahmet\source\repos\CarFind\CarFind.Entities\bin\Debug\netcoreapp3.1\CarFind.Entities.dll
+C:\Users\ahmet\source\repos\CarFind\CarFind.Entities\bin\Debug\netcoreapp3.1\CarFind.Entities.pdb
+C:\Users\ahmet\source\repos\CarFind\CarFind.Entities\obj\Debug\netcoreapp3.1\CarFind.Entities.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\CarFind\CarFind.Entities\obj\Debug\netcoreapp3.1\CarFind.Entities.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\CarFind\CarFind.Entities\obj\Debug\netcoreapp3.1\CarFind.Entities.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\CarFind\CarFind.Entities\obj\Debug\netcoreapp3.1\CarFind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\CarFind\CarFind.Entities\obj\Debug\netcoreapp3.1\CarFind.Entities.dll
+C:\Users\ahmet\source\repos\CarFind\CarFind.Entities\obj\Debug\netcoreapp3.1\CarFind.Entities.pdb
